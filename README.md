@@ -1,4 +1,5 @@
 # Transformers:
 
-Transformer used : "bert-base-multilingual-cased"
+Transformer used : "bert-base-multilingual-cased",
+
 Device used : "TPU"
